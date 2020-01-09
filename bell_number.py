@@ -24,6 +24,3 @@ def bell_tab(n,k):
 
     return bell_arr[n][k]
 
-
-print(bell_tab(10,4))
-print(bell(10,4))
